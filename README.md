@@ -5,8 +5,7 @@
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Jatin-Repository/MLflow_Learning.mlflow \
 MLFLOW_TRACKING_USERNAME=Jatin-Repository \
-MLFLOW_TRACKING_PASSWORD=f9ecf0026ad484cecf5cf319dc4313e079c2ac8b \
-python script.py
+MLFLOW_TRACKING_PASSWORD=7118cd982cf8c07578888da3f2773ca2bb133042 \
 
 
 ``` bash
@@ -15,6 +14,8 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/Jatin-Repository/MLflow_Learning.
 
 export MLFLOW_TRACKING_USERNAME=Jatin-Repository
 
-export MLFLOW_TRACKING_PASSWORD=f9ecf0026ad484cecf5cf319dc4313e079c2ac8b
+export MLFLOW_TRACKING_PASSWORD=7118cd982cf8c07578888da3f2773ca2bb133042
+
+
 
 ```

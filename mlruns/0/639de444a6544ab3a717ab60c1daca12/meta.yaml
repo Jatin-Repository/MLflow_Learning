@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jatin/First_MLOps_Project/mlruns/0/639de444a6544ab3a717ab60c1daca12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 639de444a6544ab3a717ab60c1daca12
+run_name: classy-grouse-905
+run_uuid: 639de444a6544ab3a717ab60c1daca12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725122383230
+status: 1
+tags: []
+user_id: jatin
