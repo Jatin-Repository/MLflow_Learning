@@ -84,8 +84,10 @@ if __name__ == "__main__":
 
         #For Remote Server only (Dagshub)
 
-        remote_server_uri = "https://dagshub.com/Jatin-Repository/First_MLOps_Project.mlflow"
-        mlflow.set_tracking_uri =(remote_server_uri)
+        remote_server_uri = "https://dagshub.com/Jatin-Repository/MLflow_Learning.mlflow"
+        mlflow.set_tracking_uri(remote_server_uri)
+        #mlflow.set_tracking_uri("https://dagshub.com/Jatin-Repository/MLflow_Learning.mlflow")
+
 
 
         # remote sever url (AWS), default will save in local.
@@ -96,8 +98,7 @@ if __name__ == "__main__":
             #     lr, "model", registered_model_name="ElasticnetWineModel", signature=signature
             # )
             mlflow.sklearn.log_model(
-                lr, "model", registered_model_name="ElasticnetWineModel"
-            )
+                lr, "model", registered_model_name="ElasticnetWineModel")
         
         else:
             #mlflow.sklearn.log_model(lr,"model",signature=signature)
