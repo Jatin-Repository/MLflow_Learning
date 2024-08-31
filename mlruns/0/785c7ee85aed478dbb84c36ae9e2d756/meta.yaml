@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jatin/First_MLOps_Project/mlruns/0/785c7ee85aed478dbb84c36ae9e2d756/artifacts
+end_time: 1725107668790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 785c7ee85aed478dbb84c36ae9e2d756
+run_name: masked-panda-561
+run_uuid: 785c7ee85aed478dbb84c36ae9e2d756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725107661783
+status: 3
+tags: []
+user_id: jatin
